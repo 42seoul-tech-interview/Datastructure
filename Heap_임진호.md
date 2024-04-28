@@ -11,18 +11,18 @@ heap의 뜻은 산더미, 모래더미 등과 같은 더미를 의미한다.
 
 Max heap은 부모노드가 자식노드보다 큰 완전이진트리를 말한다.
 
-<img src="./imgs/heap/maxheap00.jpg" width="200px" height="200px" title="binary tree"/>
+<img src="./imgs/heap/maxheap00.jpg" width="400px" height="400px" title="binary tree"/>
 
 Min heap은 부모노드가 자식노드보다 작은 완전이진트리이다.
 
-<img src="./imgs/heap/minheap00.jpg" width="200px" height="200px" title="binary tree"/>
+<img src="./imgs/heap/minheap00.jpg" width="400px" height="400px" title="binary tree"/>
 
 이진트리는 자식노드의 개수가 최대 2개인 형태의 트리이다.
 완전이진트리는 트리 마지막 계층에 있는 노드들은 맨 왼쪽부터 마지막 노드가 있는 곳까지 빈 곳 없이 채워져 있는 이진트리이다.
 중간에 비어있는 부분이 있다면 완전이진트리가 아니다.
 
-<img src="./imgs/heap/heap00.jpg" width="200px" height="200px" title="binary tree"/>
-<img src="./imgs/heap/heap01.jpg" width="200px" height="200px" title="binary tree"/>
+<img src="./imgs/heap/heap00.jpg" width="400px" height="400px" title="binary tree"/>
+<img src="./imgs/heap/heap01.jpg" width="400px" height="400px" title="binary tree"/>
 
 힙의 이러한 특성을 이용해서 root에 있는 값을 pop해서 정렬할 수 있다.
 
